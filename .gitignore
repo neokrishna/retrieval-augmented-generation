@@ -1,0 +1,17 @@
+# Ignore all tar archives and gzipped tar archives
+*.tar
+*.tar.gz
+*.tgz
+*.tar.bz2
+*.tbz2
+*.tar.xz
+*.txz
+
+# Ignore tar archive download folders
+*.tar.gz.download/
+*.tar.download/
+
+# Ignore joblib serialization files
+*.joblib
+
+
